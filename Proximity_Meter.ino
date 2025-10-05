@@ -1,7 +1,7 @@
 /*
   Proximity Meter Code
 
-  First LED glows at 20cm and more LED glows as the distancs reduces
+  First LED glows at 20cm and more LED glows as the distance reduces
 
   6 LEDs are connected at digital pin 2-7 and a Ultrasonic Distance Sensor HC-SR04 at pin 11(Trig) and 12(Echo).
 
