@@ -46,6 +46,4 @@ Arduino Digital Pin 11 -> HC-SR04 Echo
 
 Arduino Digital Pin 10 -> HC-SR04 Trig
 
-by Heonics
-
-https://youtube.com/@heonics
+by Heonics YT(https://youtube.com/@heonics)
