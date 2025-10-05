@@ -7,7 +7,7 @@
 
   by Heonics
 
-  https://github.com/Heonics/Distance_Variable_Alarm/blob/main/Dustance_Variable_Alarm.ino
+  https://github.com/Heonics/Proximity-Meter/blob/main/Proximity_Meter.ino
 
 
 Required Materials :
